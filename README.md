@@ -83,4 +83,28 @@ Some of the packages we added as dependencies to the project require installatio
 - Package usages. (Navigation, Redux, hooks usage etc.)
 
 ## App preview
-It will be filled.
+<table style="width: 100%">
+  <tr>
+    <th style="width: 33%">01-Login</th>
+    <th style="width: 33%">02-App</th>
+    <th style="width: 33%">03-Create Location</th>
+  </tr>
+  <tr>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+  </tr>
+</table>
+
+<table style="width: 100%">
+  <tr>
+    <th style="width: 33%">04-Delete Location</th>
+    <th style="width: 33%">05-Update Location</th>
+    <th style="width: 33%">06-Logout</th>
+  </tr>
+  <tr>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+    <td style="text-align: center"></td>
+  </tr>
+</table>
