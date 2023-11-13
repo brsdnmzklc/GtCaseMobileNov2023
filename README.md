@@ -91,13 +91,13 @@ Some of the packages we added as dependencies to the project require installatio
   </tr>
   <tr>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/7e89e4d4-1d2f-43d7-b901-e2c488b4188c" />
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/7e89e4d4-1d2f-43d7-b901-e2c488b4188c"></video>
     </td>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/f9579a08-ffea-42a0-b512-32cd2ebd1847" />
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/f9579a08-ffea-42a0-b512-32cd2ebd1847"></video>
     </td>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/d068d9cb-4ac4-4367-b09c-c101922a337d" />
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/d068d9cb-4ac4-4367-b09c-c101922a337d"></video>
     </td>
   </tr>
 </table>
@@ -110,13 +110,13 @@ Some of the packages we added as dependencies to the project require installatio
   </tr>
   <tr>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/491a7e84-f5d4-413d-98d5-cd74202433f1" />
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/491a7e84-f5d4-413d-98d5-cd74202433f1"></video>
     </td>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/0a016af2-bcad-4d4b-8207-f9cbe71ec7e3" />
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/0a016af2-bcad-4d4b-8207-f9cbe71ec7e3"></video>
     </td>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/db92c5c4-e239-46c8-b88e-0757f2f5a0dd" />
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/db92c5c4-e239-46c8-b88e-0757f2f5a0dd"></video>
     </td>
   </tr>
 </table>
