@@ -1,23 +1,23 @@
 # Global Tours & Tickets Case Mobile November 2023
 
 #### **Hello everyone** 👋
-Here, information is given about the things to consider when developing the sample application.<br/>
-Our expectation is that you send examples that work smoothly on Android and iOS platforms.<br/>
+- This document provides information about the development and evaluation of the sample application.
 
-- **Note:** If you do not have a Mac to develop the iOS side, please specify in the description field.<br/>
+- As part of the testing, we expect you to prepare the sample application (**App Preview**) at the bottom of the document.
 
-#### **Email format** ✉️
-After preparing your project.<br/>
-You can send an e-mail to the e-mail address below by following this format.<br/>
+- The application must be developed using **Typescript**. It should work on **Android** and **Ios** platforms. It should include all the features in the **App Preview** section.
+    - Navigation elements (Tabbar, Drawer etc.)
+    - Form validations
+    - Theme support
+    - Continuing the session (If logged in, do not show the login screen.)
+    - State storage (If there is added data, store it.)
+    - Map operations
 
-- **Mail:** toursandticketsparis@gmail.com
-- **Title:** GtCaseMobileNov2023 - Name Surname
-- **Description:**
-    - **Project Repository Url:**
-    - **Note:**
+- After preparing your application, you can send us an e-mail in the format specified in the **Contact** field.
 
-<br/>
-Thank you to everyone who attended for your time. **Happy Coding**. 🎈 <br/>
+**Note:** If you do not own a Mac computer to develop on the iOS platform, please inform us in the notes section of the e-mail.
+
+Thanks for your time. **Happy coding.** 🎈<br/>
 Tolgahan Çelik<br/>
 
 ## Getting started
@@ -60,9 +60,9 @@ Google Maps APIs will be used in the sample application. You need to generate ap
 - Store the API keys in the .env file.
 
 ### Completion of integrations.
-Some of the packages we added as dependencies to the project require installation. Complete the installation of these packages by reviewing their documentation.<br/><br/>
-**Note:** The **react-native-config** package is already configured to set environment variables. You can skip this package.<br/>
-**Note:** Use your api keys with **react-native-config**. You can learn how to do this from the package documentation.<br/>
+Some of the packages we added as dependencies to the project require installation. Complete the installation of these packages by reviewing their documentation.<br/>
+- **Note:** The **react-native-config** package is already configured to set environment variables. You can skip this package.<br/>
+- **Note:** Use your api keys with **react-native-config**. You can learn how to do this from the package documentation.<br/>
 
 
 ## What needs to be done?
@@ -74,13 +74,22 @@ Some of the packages we added as dependencies to the project require installatio
 
 
 ## What will be evaluated?
-**Note:** You must develop the project using **TYPESCRIPT**.<br/>
+You must develop the project using **TYPESCRIPT**.<br/>
 
 - Code quality.
 - Project structure.
 - Typescript usages.
 - Package installations.
 - Package usages. (Navigation, Redux, hooks usage etc.)
+
+## Contact
+Please use this format when emailing us.<br/>
+
+- **Mail:** toursandticketsparis@gmail.com
+- **Title:** GtCaseMobileNov2023 - Name Surname
+- **Description:**
+    - **Project Repository Url:**
+    - **Note:**
 
 ## App preview
 <table style="width: 100%">
