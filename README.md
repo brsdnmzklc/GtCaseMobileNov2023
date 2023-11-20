@@ -100,13 +100,13 @@ Please use this format when emailing us.<br/>
   </tr>
   <tr>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/7e89e4d4-1d2f-43d7-b901-e2c488b4188c"></video>
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/ae6d8e13-9d06-4cd0-ba6e-b5e2faef5b64"></video>
     </td>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/f9579a08-ffea-42a0-b512-32cd2ebd1847"></video>
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/42bb0a90-aa32-49ac-96dd-5d3c0c7b1511"></video>
     </td>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/d068d9cb-4ac4-4367-b09c-c101922a337d"></video>
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/35605132-ad09-4af7-a815-decf395344ba"></video>
     </td>
   </tr>
 </table>
@@ -119,13 +119,13 @@ Please use this format when emailing us.<br/>
   </tr>
   <tr>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/491a7e84-f5d4-413d-98d5-cd74202433f1"></video>
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/742adf91-8419-45ff-b64b-a281bb6d52ac"></video>
     </td>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/0a016af2-bcad-4d4b-8207-f9cbe71ec7e3"></video>
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/61afccd7-3821-4d45-af09-e9309e2bb822"></video>
     </td>
     <td style="text-align: center">
-        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/db92c5c4-e239-46c8-b88e-0757f2f5a0dd"></video>
+        <video src="https://github.com/global-tour-rd/GtCaseMobileNov2023/assets/150152135/98822e90-9b1e-4bd5-b110-a8cf3630dbcc"></video>
     </td>
   </tr>
 </table>
